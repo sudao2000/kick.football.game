@@ -34,7 +34,7 @@ public class kick : MonoBehaviour {
 		Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
 		Vector2 ballCenter2D = new Vector2(ballCenter.x, ballCenter.y);
 		Vector2 v = new Vector2(ballCenter2D.x - mousePos2D.x , ballCenter2D.y - mousePos2D.y );
-		return v.normalized * MAX_FORCE;
+		return v.normalized * MAX_FORCE * lastScaleFactor;
 	}
 
 	void OnMouseDrag() {
