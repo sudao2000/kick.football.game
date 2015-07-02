@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class kick : MonoBehaviour {
-	private bool kicking = false;
+	private bool kicking;
 
 	public GameObject arrow_pref = null;
 	private GameObject arrow = null;
@@ -15,6 +15,7 @@ public class kick : MonoBehaviour {
 
 	void Start () {
 		kicking = false;
+		lastScaleFactor = 1;
 	}
 	
 	// Update is called once per frame
@@ -63,7 +64,7 @@ public class kick : MonoBehaviour {
 			Vector2 v = new Vector2(mousePos2D.x-ballCenter2D.x  ,mousePos2D.y - ballCenter2D.y );
 			arrowAngle = Vector2.Angle(v, Vector3.left);
 			arrow.transform.rotation = Quaternion.Euler(Vector3.forward * arrowAngle);
-			print ("OnMouseDrag maxDragArrorDistance " + maxDragArrorDistance + "  " + distance + " arrowAngle : " + arrowAngle); 
+			//print ("OnMouseDrag maxDragArrorDistance " + maxDragArrorDistance + "  " + distance + " arrowAngle : " + arrowAngle); 
 		}
 	}
 
@@ -75,7 +76,7 @@ public class kick : MonoBehaviour {
 	}
 
 	void OnMouseUp() {
-		print ("OnMouseUp");
+		//print ("OnMouseUp");
 		kicking = false;
 		kickBall();
 		if (arrow != null) {
