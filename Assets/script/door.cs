@@ -4,6 +4,7 @@ using System.Collections;
 public class door : MonoBehaviour {	
 	public Texture2D scoreTexture;
 	public int totalSeconds = 60;
+	public int level = 0;
 	
 	int leaveSeconds;
 	
@@ -58,6 +59,11 @@ public class door : MonoBehaviour {
 			print ("collider is : " + col.name);
 			StopAllCoroutines ();
 		}
+		loadNextLevel ();
+	}
+
+	private void loadNextLevel() {
+		//Application.LoadLevel ("level2");
 	}
 
 	void OnTriggerExit2D(Collider2D col) {
