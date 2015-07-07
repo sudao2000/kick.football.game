@@ -51,6 +51,7 @@
      <Compile Include="Assets\script\door.cs" />
      <Compile Include="Assets\script\floor.cs" />
      <Compile Include="Assets\script\kick.cs" />
+     <Compile Include="Assets\script\stone.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>e:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>
