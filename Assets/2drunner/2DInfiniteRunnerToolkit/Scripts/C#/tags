@@ -1,0 +1,476 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ActivateChild	Obstacles.cs	/^	public void ActivateChild()$/;"	m	class:Obstacles
+ActivateMainGUI	GUIManager.cs	/^	public void ActivateMainGUI()$/;"	m	class:GUIManager
+ActivateMainMenu	GUIManager.cs	/^	public void ActivateMainMenu()$/;"	m	class:GUIManager
+ActivateRevive	GUIManager.cs	/^	void ActivateRevive()$/;"	m	class:GUIManager	file:
+ActivateShield	GUIManager.cs	/^	void ActivateShield()$/;"	m	class:GUIManager	file:
+ActivateSonicWave	GUIManager.cs	/^	void ActivateSonicWave()$/;"	m	class:GUIManager	file:
+ActivateSpeed	GUIManager.cs	/^	void ActivateSpeed()$/;"	m	class:GUIManager	file:
+AddExplosion	LevelGenerator.cs	/^	public void AddExplosion(GameObject exp)$/;"	m	class:LevelGenerator
+Animate	SpriteAnim.cs	/^	IEnumerator Animate()$/;"	m	class:SpriteAnim	file:
+AuidoTriggerer	GUIManager.cs	/^	void AuidoTriggerer(Material audioButton)$/;"	m	class:GUIManager	file:
+ButtonDown	GUIManager.cs	/^	public void ButtonDown(Transform button)$/;"	m	class:GUIManager
+ButtonUp	GUIManager.cs	/^	public void ButtonUp(Transform button)$/;"	m	class:GUIManager
+BuyRevive	GUIManager.cs	/^	void BuyRevive()$/;"	m	class:GUIManager	file:
+BuyShield	GUIManager.cs	/^	void BuyShield()$/;"	m	class:GUIManager	file:
+BuySonicWave	GUIManager.cs	/^	void BuySonicWave()$/;"	m	class:GUIManager	file:
+BuySpeed	GUIManager.cs	/^	void BuySpeed()$/;"	m	class:GUIManager	file:
+CalculateDistances	PlayerManager.cs	/^	void CalculateDistances()$/;"	m	class:PlayerManager	file:
+CalculateMovement	PlayerManager.cs	/^	void CalculateMovement()$/;"	m	class:PlayerManager	file:
+CheckCoinIn	MissionManager.cs	/^	void CheckCoinIn(MissionTemplate mission, int number, int i)$/;"	m	class:MissionManager	file:
+CheckDistanceIn	MissionManager.cs	/^	void CheckDistanceIn(MissionTemplate mission, int number, int i)$/;"	m	class:MissionManager	file:
+CheckDistanceNoCoin	MissionManager.cs	/^	void CheckDistanceNoCoin(MissionTemplate mission, int number, int i)$/;"	m	class:MissionManager	file:
+CheckDistanceNoPowerUp	MissionManager.cs	/^	void CheckDistanceNoPowerUp(MissionTemplate mission, int number, int i)$/;"	m	class:MissionManager	file:
+CheckObstacleBased	MissionManager.cs	/^	void CheckObstacleBased(MissionTemplate mission, int i)$/;"	m	class:MissionManager	file:
+CheckPowerUpBased	MissionManager.cs	/^	void CheckPowerUpBased(MissionTemplate mission, int i)$/;"	m	class:MissionManager	file:
+CheckShopBased	MissionManager.cs	/^	void CheckShopBased(MissionTemplate mission, int i)$/;"	m	class:MissionManager	file:
+CheckSindBetween	MissionManager.cs	/^	void CheckSindBetween(MissionTemplate mission, int number, int i)$/;"	m	class:MissionManager	file:
+ClearMap	LevelGenerator.cs	/^	void ClearMap()$/;"	m	class:LevelGenerator	file:
+Coin	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+CoinEvent	MissionManager.cs	/^	public void CoinEvent(int number)$/;"	m	class:MissionManager
+CoinGathered	LevelManager.cs	/^	public void CoinGathered()$/;"	m	class:LevelManager
+Coins	LevelManager.cs	/^    public int Coins()$/;"	m	class:LevelManager
+Complete	MissionTemplate.cs	/^	public void Complete()$/;"	m	class:MissionTemplate
+Completed	MissionTemplate.cs	/^	public bool Completed()$/;"	m	class:MissionTemplate
+ContinueScrolling	LevelGenerator.cs	/^	public void ContinueScrolling()$/;"	m	class:LevelGenerator
+Crashed	PlayerManager.cs	/^	public bool Crashed()$/;"	m	class:PlayerManager
+CreateAndLoadData	SaveManager.cs	/^	public static void CreateAndLoadData() $/;"	m	class:SaveManager
+CreateData	SaveManager.cs	/^	public static void CreateData()$/;"	m	class:SaveManager
+DeactivateChild	Obstacles.cs	/^	public void DeactivateChild()$/;"	m	class:Obstacles
+DeactivateMainGUI	GUIManager.cs	/^	public void DeactivateMainGUI()$/;"	m	class:GUIManager
+DeactivateMainMenu	GUIManager.cs	/^	public void DeactivateMainMenu()$/;"	m	class:GUIManager
+Disable	SonicWave.cs	/^	public void Disable()$/;"	m	class:SonicWave
+DisableControls	PlayerManager.cs	/^	public void DisableControls()$/;"	m	class:PlayerManager
+DisableReviveGUI	GUIManager.cs	/^	public void DisableReviveGUI(int num)$/;"	m	class:GUIManager
+DisableReviveGeneration	PowerUpMain.cs	/^	public void DisableReviveGeneration()$/;"	m	class:PowerUpMain
+DisableShield	PlayerManager.cs	/^	IEnumerator DisableShield()$/;"	m	class:PlayerManager	file:
+DisableTrail	PowerUp.cs	/^    public void DisableTrail()$/;"	m	class:PowerUp
+DisplayStat	GUIManager.cs	/^	void DisplayStat(TextMesh target, int data, int digitNumbers)$/;"	m	class:GUIManager	file:
+Distance	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+DistanceEvent	MissionManager.cs	/^	public void DistanceEvent (int number)					$/;"	m	class:MissionManager
+DistanceWithNoCoins	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+DistanceWithNoPowerUps	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+EnableControls	PlayerManager.cs	/^	public void EnableControls()$/;"	m	class:PlayerManager
+EnableDisable	GUIManager.cs	/^    void EnableDisable(GameObject what, bool activate)$/;"	m	class:GUIManager	file:
+EnableDisable	LevelGenerator.cs	/^    void EnableDisable(GameObject what, bool state)$/;"	m	class:LevelGenerator	file:
+EnableDisable	Obstacles.cs	/^    void EnableDisable(GameObject what, bool activate)$/;"	m	class:Obstacles	file:
+EnableDisable	PlayerManager.cs	/^    void EnableDisable(GameObject what, bool state)$/;"	m	class:PlayerManager	file:
+EnableDisable	PowerUp.cs	/^    void EnableDisable(GameObject what, bool state)$/;"	m	class:PowerUp	file:
+EnableDisable	SonicWave.cs	/^    void EnableDisable(GameObject what, bool activate)$/;"	m	class:SonicWave	file:
+EnableDisable	Torpedo.cs	/^    void EnableDisable(GameObject what, bool childs)$/;"	m	class:Torpedo	file:
+ExtraSpeed	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+ExtraSpeed	PlayerManager.cs	/^	public void ExtraSpeed()$/;"	m	class:PlayerManager
+ExtraSpeedEffect	LevelGenerator.cs	/^	public void ExtraSpeedEffect()$/;"	m	class:LevelGenerator
+ExtraSpeedEffect	PlayerManager.cs	/^	IEnumerator ExtraSpeedEffect(float time)$/;"	m	class:PlayerManager	file:
+ExtraSpeedOver	LevelGenerator.cs	/^	public void ExtraSpeedOver()$/;"	m	class:LevelGenerator
+FadeScreen	GUIManager.cs	/^	public IEnumerator FadeScreen(float time, float to)$/;"	m	class:GUIManager
+FindCompatiblePowerUp	PowerUpMain.cs	/^	PowerUp FindCompatiblePowerUp()$/;"	m	class:PowerUpMain	file:
+Follow	Follow.cs	/^public class Follow : MonoBehaviour $/;"	c
+GUIManager	GUIManager.cs	/^public class GUIManager : MonoBehaviour $/;"	c
+GenerateFourthLayer	LevelGenerator.cs	/^	public void GenerateFourthLayer(int placeAtLoc)$/;"	m	class:LevelGenerator
+GenerateObstacles	LevelGenerator.cs	/^	public void GenerateObstacles()$/;"	m	class:LevelGenerator
+GeneratePowerUp	LevelGenerator.cs	/^	IEnumerator GeneratePowerUp()$/;"	m	class:LevelGenerator	file:
+GeneratePowerUp	PowerUpMain.cs	/^	public void GeneratePowerUp(float multiplyValue)$/;"	m	class:PowerUpMain
+GenerateSecondLayer	LevelGenerator.cs	/^	public void GenerateSecondLayer(int placeAtLoc)$/;"	m	class:LevelGenerator
+GenerateThirdLayer	LevelGenerator.cs	/^	public void GenerateThirdLayer(int placeAtLoc)$/;"	m	class:LevelGenerator
+GenerateTorpedo	LevelGenerator.cs	/^	IEnumerator GenerateTorpedo()$/;"	m	class:LevelGenerator	file:
+GetAspectRation	ResolutionManager.cs	/^	string GetAspectRation(int a, int b)$/;"	m	class:ResolutionManager	file:
+GetBestDistance	SaveManager.cs	/^	public static int GetBestDistance()$/;"	m	class:SaveManager
+GetClicks	InputManager.cs	/^	void GetClicks()$/;"	m	class:InputManager	file:
+GetCoins	SaveManager.cs	/^	public static int GetCoins()$/;"	m	class:SaveManager
+GetExtraSpeed	SaveManager.cs	/^	public static int GetExtraSpeed()$/;"	m	class:SaveManager
+GetGreatestDivider	ResolutionManager.cs	/^	int GetGreatestDivider(int a, int b)$/;"	m	class:ResolutionManager	file:
+GetMission1	SaveManager.cs	/^	public static int GetMission1()$/;"	m	class:SaveManager
+GetMission1Data	SaveManager.cs	/^	public static int GetMission1Data()$/;"	m	class:SaveManager
+GetMission2	SaveManager.cs	/^	public static int GetMission2()$/;"	m	class:SaveManager
+GetMission2Data	SaveManager.cs	/^	public static int GetMission2Data()$/;"	m	class:SaveManager
+GetMission3	SaveManager.cs	/^	public static int GetMission3()$/;"	m	class:SaveManager
+GetMission3Data	SaveManager.cs	/^	public static int GetMission3Data()$/;"	m	class:SaveManager
+GetMissionData	SaveManager.cs	/^	public static string GetMissionData()$/;"	m	class:SaveManager
+GetNewMission	MissionManager.cs	/^	void GetNewMission(int i)$/;"	m	class:MissionManager	file:
+GetNextMissions	MissionManager.cs	/^	void GetNextMissions()$/;"	m	class:MissionManager	file:
+GetRevive	SaveManager.cs	/^	public static int GetRevive()$/;"	m	class:SaveManager
+GetShield	SaveManager.cs	/^	public static int GetShield()$/;"	m	class:SaveManager
+GetSonicWave	SaveManager.cs	/^	public static int GetSonicWave()$/;"	m	class:SaveManager
+GetTouches	InputManager.cs	/^	void GetTouches()$/;"	m	class:InputManager	file:
+GoalType	MissionTemplate.cs	/^	public enum GoalType {InOneRun, InMultipleRun, InShop, Other};$/;"	g	class:MissionTemplate
+HasRevive	PlayerManager.cs	/^	public bool HasRevive()$/;"	m	class:PlayerManager
+InMultipleRun	MissionTemplate.cs	/^	public enum GoalType {InOneRun, InMultipleRun, InShop, Other};$/;"	e	enum:MissionTemplate.GoalType	file:
+InOneRun	MissionTemplate.cs	/^	public enum GoalType {InOneRun, InMultipleRun, InShop, Other};$/;"	e	enum:MissionTemplate.GoalType	file:
+InShop	MissionTemplate.cs	/^	public enum GoalType {InOneRun, InMultipleRun, InShop, Other};$/;"	e	enum:MissionTemplate.GoalType	file:
+InputManager	InputManager.cs	/^public class InputManager : MonoBehaviour $/;"	c
+Instance	GUIManager.cs	/^    public static GUIManager Instance$/;"	p	class:GUIManager
+Instance	LevelGenerator.cs	/^    public static LevelGenerator Instance$/;"	p	class:LevelGenerator
+Instance	LevelManager.cs	/^    public static LevelManager Instance$/;"	p	class:LevelManager
+Instance	MissionManager.cs	/^    public static MissionManager Instance$/;"	p	class:MissionManager
+Instance	PlayerManager.cs	/^    public static PlayerManager Instance$/;"	p	class:PlayerManager
+Instance	ResolutionManager.cs	/^    public static ResolutionManager Instance$/;"	p	class:ResolutionManager
+Laser	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+LaserBeam	LaserBeam.cs	/^public class LaserBeam : MonoBehaviour $/;"	c
+Launch	Torpedo.cs	/^	public void Launch (float s) $/;"	m	class:Torpedo
+LaunchSonicWave	PlayerManager.cs	/^	IEnumerator LaunchSonicWave()$/;"	m	class:PlayerManager	file:
+LaunchTorpedo	TorpedoMain.cs	/^	public void LaunchTorpedo()$/;"	m	class:TorpedoMain
+LevelEdge	LevelEdge.cs	/^public class LevelEdge : MonoBehaviour $/;"	c
+LevelGenerator	LevelGenerator.cs	/^public class LevelGenerator : MonoBehaviour $/;"	c
+LevelManager	LevelManager.cs	/^public class LevelManager : MonoBehaviour $/;"	c
+LoadData	SaveManager.cs	/^	static void LoadData()$/;"	m	class:SaveManager	file:
+LoadStatus	MissionManager.cs	/^	public void LoadStatus()$/;"	m	class:MissionManager
+MainMenuArrowTrigger	GUIManager.cs	/^	void MainMenuArrowTrigger(Material arrow)$/;"	m	class:GUIManager	file:
+Mine	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+MissionCompleted	MissionManager.cs	/^	void MissionCompleted(MissionTemplate mission, int missionID)$/;"	m	class:MissionManager	file:
+MissionManager	MissionManager.cs	/^public class MissionManager : MonoBehaviour $/;"	c
+MissionTemplate	MissionTemplate.cs	/^public class MissionTemplate$/;"	c
+MissionType	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	g	class:MissionTemplate
+ModifyExtraSpeedBy	SaveManager.cs	/^	public static void ModifyExtraSpeedBy(int modifyBy)$/;"	m	class:SaveManager
+ModifyReviveBy	SaveManager.cs	/^	public static void ModifyReviveBy(int modifyBy)$/;"	m	class:SaveManager
+ModifyShieldBy	SaveManager.cs	/^    public static void ModifyShieldBy(int modifyBy)$/;"	m	class:SaveManager
+ModifySonicWaveBy	SaveManager.cs	/^    public static void ModifySonicWaveBy(int modifyBy)$/;"	m	class:SaveManager
+ModifyStoredValue	MissionTemplate.cs	/^	public void ModifyStoredValue(bool addValue, int ammount)$/;"	m	class:MissionTemplate
+MoveAndRotate	PlayerManager.cs	/^	void MoveAndRotate()$/;"	m	class:PlayerManager	file:
+MoveDown	PlayerManager.cs	/^	public void MoveDown()$/;"	m	class:PlayerManager
+MoveMenu	GUIManager.cs	/^	IEnumerator MoveMenu(Transform menuTransform, float endPosX, float endPosY, float time, bool hide)$/;"	m	class:GUIManager	file:
+MovePowerUpSelection	GUIManager.cs	/^	IEnumerator MovePowerUpSelection(bool speed, bool shield, bool sonic)$/;"	m	class:GUIManager	file:
+MoveToPosition	PlayerManager.cs	/^	IEnumerator MoveToPosition (Transform obj, Vector3 endPos, float time, bool enableSub) $/;"	m	class:PlayerManager	file:
+MoveUp	PlayerManager.cs	/^	public void MoveUp()$/;"	m	class:PlayerManager
+ObstacleEvent	MissionManager.cs	/^	public void ObstacleEvent(string name)$/;"	m	class:MissionManager
+Obstacles	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+Obstacles	Obstacles.cs	/^public class Obstacles : MonoBehaviour $/;"	c
+OnDisable	SpriteAnim.cs	/^	void OnDisable()$/;"	m	class:SpriteAnim	file:
+OnEnable	SpriteAnim.cs	/^	void OnEnable () $/;"	m	class:SpriteAnim	file:
+OnEnable	TorpedoIndicator.cs	/^	void OnEnable()$/;"	m	class:TorpedoIndicator	file:
+OnTriggerEnter	LevelEdge.cs	/^	void OnTriggerEnter(Collider other) $/;"	m	class:LevelEdge	file:
+OnTriggerEnter	PlayerManager.cs	/^	void OnTriggerEnter (Collider other)$/;"	m	class:PlayerManager	file:
+OnTriggerEnter	SonicWave.cs	/^	void OnTriggerEnter (Collider other)$/;"	m	class:SonicWave	file:
+Other	MissionTemplate.cs	/^	public enum GoalType {InOneRun, InMultipleRun, InShop, Other};$/;"	e	enum:MissionTemplate.GoalType	file:
+Pause	GUIManager.cs	/^	void Pause()$/;"	m	class:GUIManager	file:
+Pause	LevelGenerator.cs	/^	public void Pause()$/;"	m	class:LevelGenerator
+Pause	PlayerManager.cs	/^	public void Pause()$/;"	m	class:PlayerManager
+Pause	PowerUp.cs	/^	public void Pause()$/;"	m	class:PowerUp
+Pause	Torpedo.cs	/^	public void Pause()$/;"	m	class:Torpedo
+Pause	TorpedoIndicator.cs	/^	public void Pause()$/;"	m	class:TorpedoIndicator
+PauseAll	PowerUpMain.cs	/^	public void PauseAll()$/;"	m	class:PowerUpMain
+PauseAll	TorpedoMain.cs	/^	public void PauseAll()$/;"	m	class:TorpedoMain
+PauseGame	LevelManager.cs	/^	public void PauseGame()$/;"	m	class:LevelManager
+PlaceExplosion	Torpedo.cs	/^	IEnumerator PlaceExplosion(float x, float y)$/;"	m	class:Torpedo	file:
+PlaceIndicator	Torpedo.cs	/^	IEnumerator PlaceIndicator()$/;"	m	class:Torpedo	file:
+PlayExplosion	PlayerManager.cs	/^	void PlayExplosion(Transform expParent)$/;"	m	class:PlayerManager	file:
+PlayExplosion	SonicWave.cs	/^	void PlayExplosion(Transform expParent)$/;"	m	class:SonicWave	file:
+PlayerManager	PlayerManager.cs	/^public class PlayerManager : MonoBehaviour $/;"	c
+PowerUp	PowerUp.cs	/^public class PowerUp : MonoBehaviour $/;"	c
+PowerUpEvent	MissionManager.cs	/^	public void PowerUpEvent(string name)$/;"	m	class:MissionManager
+PowerUpMain	PowerUpMain.cs	/^public class PowerUpMain : MonoBehaviour $/;"	c
+PowerUpUsed	PlayerManager.cs	/^	public bool PowerUpUsed()$/;"	m	class:PlayerManager
+PowerUps	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+QuitToMain	GUIManager.cs	/^    IEnumerator QuitToMain()$/;"	m	class:GUIManager	file:
+QuitToMain	LevelManager.cs	/^	public void QuitToMain()$/;"	m	class:LevelManager
+RaiseShield	PlayerManager.cs	/^	public void RaiseShield()$/;"	m	class:PlayerManager
+RandomizeObstacles	LevelGenerator.cs	/^	void RandomizeObstacles()  $/;"	m	class:LevelGenerator	file:
+RemoveExplosion	LevelGenerator.cs	/^	public void RemoveExplosion(GameObject exp)$/;"	m	class:LevelGenerator
+ResetAll	PowerUpMain.cs	/^	public void ResetAll()$/;"	m	class:PowerUpMain
+ResetAll	TorpedoMain.cs	/^	public void ResetAll()$/;"	m	class:TorpedoMain
+ResetDataString	MissionManager.cs	/^	public void ResetDataString()$/;"	m	class:MissionManager
+ResetMissions	MissionManager.cs	/^	void ResetMissions()$/;"	m	class:MissionManager	file:
+ResetPowerUp	PowerUpMain.cs	/^	public void ResetPowerUp(PowerUp sender)$/;"	m	class:PowerUpMain
+ResetStatus	PlayerManager.cs	/^	public void ResetStatus(bool moveToStart)$/;"	m	class:PlayerManager
+ResetThis	MissionTemplate.cs	/^	public void ResetThis()$/;"	m	class:MissionTemplate
+ResetThis	PowerUp.cs	/^	public void ResetThis()$/;"	m	class:PowerUp
+ResetThis	SonicWave.cs	/^	void ResetThis()$/;"	m	class:SonicWave	file:
+ResetThis	Torpedo.cs	/^	public void ResetThis()$/;"	m	class:Torpedo
+ResetTorpedo	TorpedoMain.cs	/^	public void ResetTorpedo(Torpedo sender)$/;"	m	class:TorpedoMain
+ResolutionManager	ResolutionManager.cs	/^public class ResolutionManager : MonoBehaviour $/;"	c
+Restart	GUIManager.cs	/^    IEnumerator Restart()$/;"	m	class:GUIManager	file:
+Restart	LevelGenerator.cs	/^	public void Restart(bool startToScroll)$/;"	m	class:LevelGenerator
+Restart	LevelManager.cs	/^	public void Restart()$/;"	m	class:LevelManager
+Resume	GUIManager.cs	/^    IEnumerator Resume()$/;"	m	class:GUIManager	file:
+Resume	LevelGenerator.cs	/^	public void Resume()$/;"	m	class:LevelGenerator
+Resume	PlayerManager.cs	/^	public void Resume()$/;"	m	class:PlayerManager
+Resume	PowerUp.cs	/^	public void Resume()$/;"	m	class:PowerUp
+Resume	Torpedo.cs	/^	public void Resume()$/;"	m	class:Torpedo
+Resume	TorpedoIndicator.cs	/^	public void Resume()$/;"	m	class:TorpedoIndicator
+ResumeAll	PowerUpMain.cs	/^	public void ResumeAll()$/;"	m	class:PowerUpMain
+ResumeAll	TorpedoMain.cs	/^	public void ResumeAll()$/;"	m	class:TorpedoMain
+ResumeGame	LevelManager.cs	/^	public void ResumeGame()$/;"	m	class:LevelManager
+Revive	LevelManager.cs	/^	public void Revive()$/;"	m	class:LevelManager
+Revive	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+Revive	PlayerManager.cs	/^	public IEnumerator Revive()$/;"	m	class:PlayerManager
+ReviveCollected	PlayerManager.cs	/^	void ReviveCollected()$/;"	m	class:PlayerManager	file:
+RevivePicked	GUIManager.cs	/^	public void RevivePicked()$/;"	m	class:GUIManager
+RightPosition	ResolutionManager.cs	/^	public float RightPosition()$/;"	m	class:ResolutionManager
+Save	MissionManager.cs	/^	public void Save()$/;"	m	class:MissionManager
+SaveManager	SaveManager.cs	/^public static class SaveManager : object $/;"	c
+ScaleObject	PlayerManager.cs	/^	IEnumerator ScaleObject (Transform obj, Vector3 scale, float time, bool deactivate)$/;"	m	class:PlayerManager	file:
+ScrollExplosion	LevelGenerator.cs	/^	public IEnumerator ScrollExplosion(ParticleSystem particle)$/;"	m	class:LevelGenerator
+ScrollLevel	LevelGenerator.cs	/^	void ScrollLevel()$/;"	m	class:LevelGenerator	file:
+SetBestDistance	SaveManager.cs	/^	public static void SetBestDistance(int distance)$/;"	m	class:SaveManager
+SetCoins	SaveManager.cs	/^	public static void SetCoins(int ammount)$/;"	m	class:SaveManager
+SetHangarPos	LevelGenerator.cs	/^	public void SetHangarPos(float pos)$/;"	m	class:LevelGenerator
+SetLevelResolution	GUIManager.cs	/^	public void SetLevelResolution()$/;"	m	class:GUIManager
+SetMission1	SaveManager.cs	/^	public static void SetMission1(int id)$/;"	m	class:SaveManager
+SetMission1Data	SaveManager.cs	/^	public static void SetMission1Data(int id)$/;"	m	class:SaveManager
+SetMission2	SaveManager.cs	/^	public static void SetMission2(int id)$/;"	m	class:SaveManager
+SetMission2Data	SaveManager.cs	/^	public static void SetMission2Data(int id)$/;"	m	class:SaveManager
+SetMission3	SaveManager.cs	/^	public static void SetMission3(int id)$/;"	m	class:SaveManager
+SetMission3Data	SaveManager.cs	/^	public static void SetMission3Data(int id)$/;"	m	class:SaveManager
+SetMissionData	SaveManager.cs	/^	public static void SetMissionData(string s)$/;"	m	class:SaveManager
+SetPositions	PlayerManager.cs	/^	public void SetPositions(float starting, float main)$/;"	m	class:PlayerManager
+SetResolutionSetting	ResolutionManager.cs	/^	public void SetResolutionSetting(GameObject[] scalable, GameObject[] shopElements, GameObject[] leftElements, GameObject[] rightElements, GameObject h)$/;"	m	class:ResolutionManager
+SetSonicBlastFirst	PowerUpMain.cs	/^	public void SetSonicBlastFirst()$/;"	m	class:PowerUpMain
+SetStoredValue	MissionTemplate.cs	/^	public void SetStoredValue(int v)$/;"	m	class:MissionTemplate
+Setup	PowerUp.cs	/^	public void Setup(float vSpeed, float vDist, float hSpeed)$/;"	m	class:PowerUp
+Shield	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+ShopEvent	MissionManager.cs	/^	public void ShopEvent(string name)$/;"	m	class:MissionManager
+ShowEnd	GUIManager.cs	/^	public void ShowEnd()$/;"	m	class:GUIManager
+ShowMissionComplete	GUIManager.cs	/^	public IEnumerator ShowMissionComplete(string text)$/;"	m	class:GUIManager
+ShowRevive	GUIManager.cs	/^	public IEnumerator ShowRevive()$/;"	m	class:GUIManager
+ShowStartPowerUps	GUIManager.cs	/^	public void ShowStartPowerUps()$/;"	m	class:GUIManager
+Sink	PlayerManager.cs	/^	void Sink()$/;"	m	class:PlayerManager	file:
+SinkBetween	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+SinkEffects	PlayerManager.cs	/^	IEnumerator SinkEffects()$/;"	m	class:PlayerManager	file:
+SinkEvent	MissionManager.cs	/^	public void SinkEvent(int number)$/;"	m	class:MissionManager
+SleepGameObject	LevelGenerator.cs	/^	public void SleepGameObject(GameObject go)$/;"	m	class:LevelGenerator
+SonicWave	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+SonicWave	SonicWave.cs	/^public class SonicWave : MonoBehaviour $/;"	c
+SpeedMultiplier	LevelGenerator.cs	/^    public float SpeedMultiplier()$/;"	m	class:LevelGenerator
+SpriteAnim	SpriteAnim.cs	/^public class SpriteAnim : MonoBehaviour $/;"	c
+Start	GUIManager.cs	/^    void Start()$/;"	m	class:GUIManager	file:
+Start	LevelGenerator.cs	/^	void Start()$/;"	m	class:LevelGenerator	file:
+Start	LevelManager.cs	/^	void Start()$/;"	m	class:LevelManager	file:
+Start	MissionManager.cs	/^    void Start()$/;"	m	class:MissionManager	file:
+Start	Obstacles.cs	/^	void Start()$/;"	m	class:Obstacles	file:
+Start	PlayerManager.cs	/^	void Start()$/;"	m	class:PlayerManager	file:
+Start	PowerUp.cs	/^	void Start()$/;"	m	class:PowerUp	file:
+Start	PowerUpMain.cs	/^	void Start()$/;"	m	class:PowerUpMain	file:
+Start	ResolutionManager.cs	/^	void Start () $/;"	m	class:ResolutionManager	file:
+Start	Torpedo.cs	/^	void Start()$/;"	m	class:Torpedo	file:
+Start	TorpedoMain.cs	/^	void Start()$/;"	m	class:TorpedoMain	file:
+StartLevel	LevelManager.cs	/^	public void StartLevel()$/;"	m	class:LevelManager
+StartToGenerate	LevelGenerator.cs	/^	public IEnumerator StartToGenerate(float waitTime, float obstacleWaitTime)$/;"	m	class:LevelGenerator
+StartToPlay	GUIManager.cs	/^	void StartToPlay()$/;"	m	class:GUIManager	file:
+StopScrolling	LevelGenerator.cs	/^	IEnumerator StopScrolling (float time)$/;"	m	class:LevelGenerator	file:
+StoredValue	MissionTemplate.cs	/^	public int StoredValue()$/;"	m	class:MissionTemplate
+TargetHit	Torpedo.cs	/^	public void TargetHit(bool playExplosion)$/;"	m	class:Torpedo
+Torpedo	MissionTemplate.cs	/^	public enum MissionType {Distance, DistanceWithNoCoins, DistanceWithNoPowerUps, SinkBetween, Coin, PowerUps, ExtraSpeed, Shield, SonicWave, Obstacles, Revive, Mine, Torpedo, Laser};$/;"	e	enum:MissionTemplate.MissionType	file:
+Torpedo	Torpedo.cs	/^public class Torpedo : MonoBehaviour $/;"	c
+TorpedoIndicator	TorpedoIndicator.cs	/^public class TorpedoIndicator : MonoBehaviour $/;"	c
+TorpedoMain	TorpedoMain.cs	/^public class TorpedoMain : MonoBehaviour $/;"	c
+TriggerMainMissionList	GUIManager.cs	/^	void TriggerMainMissionList()$/;"	m	class:GUIManager	file:
+TriggerShop	GUIManager.cs	/^	void TriggerShop()$/;"	m	class:GUIManager	file:
+Update	Follow.cs	/^	void Update () $/;"	m	class:Follow	file:
+Update	GUIManager.cs	/^	void Update()$/;"	m	class:GUIManager	file:
+Update	InputManager.cs	/^	void Update () $/;"	m	class:InputManager	file:
+Update	LaserBeam.cs	/^	void Update () $/;"	m	class:LaserBeam	file:
+Update	LevelGenerator.cs	/^	void Update()$/;"	m	class:LevelGenerator	file:
+Update	PlayerManager.cs	/^	void Update()$/;"	m	class:PlayerManager	file:
+Update	PowerUp.cs	/^	void Update () $/;"	m	class:PowerUp	file:
+Update	SpriteAnim.cs	/^	void Update()$/;"	m	class:SpriteAnim	file:
+Update	Torpedo.cs	/^	void Update () $/;"	m	class:Torpedo	file:
+Update	TorpedoIndicator.cs	/^	void Update () $/;"	m	class:TorpedoIndicator	file:
+UpdateBestDistance	GUIManager.cs	/^	public void UpdateBestDistance()$/;"	m	class:GUIManager
+UpdateDataString	MissionManager.cs	/^	void UpdateDataString()$/;"	m	class:MissionManager	file:
+UpdateGUITexts	MissionManager.cs	/^	void UpdateGUITexts()$/;"	m	class:MissionManager	file:
+UpdateMission	PlayerManager.cs	/^	void UpdateMission(string name)$/;"	m	class:PlayerManager	file:
+UpdateMissionStatus	GUIManager.cs	/^	public void UpdateMissionStatus(int i, int a, int b)$/;"	m	class:GUIManager
+UpdateMissionTexts	GUIManager.cs	/^	public void UpdateMissionTexts(string text1, string text2, string text3)$/;"	m	class:GUIManager
+UpdateShop	GUIManager.cs	/^	void UpdateShop()$/;"	m	class:GUIManager	file:
+WreckSub	PlayerManager.cs	/^	void WreckSub()$/;"	m	class:PlayerManager	file:
+activated	PowerUpMain.cs	/^	List<PowerUp> activated	 	= new List<PowerUp>();			\/\/A list of the deactivated power ups$/;"	f	class:PowerUpMain	file:
+activated	TorpedoMain.cs	/^	List<Torpedo> activated	 	= new List<Torpedo>();				\/\/A list of the active torpedoes$/;"	f	class:TorpedoMain	file:
+activeElements	LevelGenerator.cs	/^    List<GameObject> activeElements = new List<GameObject>(); 	\/\/A list containing the active elements$/;"	f	class:LevelGenerator	file:
+activeMissionComplete	MissionManager.cs	/^	bool[] activeMissionComplete = new bool[3];				\/\/Store which mission is completed from the active missions$/;"	f	class:MissionManager	file:
+activeMissionIDs	MissionManager.cs	/^	int[] activeMissionIDs = new int[3];					\/\/The ID of the active missions$/;"	f	class:MissionManager	file:
+audioEnabled	GUIManager.cs	/^	bool audioEnabled		= true;				\/\/The audio enabled$/;"	f	class:GUIManager	file:
+background	LevelGenerator.cs	/^	public Renderer background;									\/\/The background renderer$/;"	f	class:LevelGenerator
+bestDist	GUIManager.cs	/^    public TextMesh bestDist; 					\/\/Displays the best distance in the hangar$/;"	f	class:GUIManager
+bestDistance	SaveManager.cs	/^	static int bestDistance 	= 0;					\/\/The best distance the player has reached$/;"	f	class:SaveManager	file:
+bubbles	PlayerManager.cs	/^	public ParticleSystem bubbles;										\/\/The submarine bubble particle system$/;"	f	class:PlayerManager
+button	InputManager.cs	/^	Transform button;							\/\/The triggered button$/;"	f	class:InputManager	file:
+canAnimate	SpriteAnim.cs	/^	bool canAnimate = false;					\/\/Animation enabled\/disabled$/;"	f	class:SpriteAnim	file:
+canClick	GUIManager.cs	/^	bool canClick			= true;				\/\/The player can click$/;"	f	class:GUIManager	file:
+canDisable	SonicWave.cs	/^	bool canDisable	= false;								\/\/Can the power up disable itself?$/;"	f	class:SonicWave	file:
+canGenerate	LevelGenerator.cs	/^	bool canGenerate						= false;			\/\/Generation switch$/;"	f	class:LevelGenerator	file:
+canGeneratePowerUp	LevelGenerator.cs	/^	bool canGeneratePowerUp					= true;				\/\/Power up generation switch$/;"	f	class:LevelGenerator	file:
+canGenerateRevive	PowerUpMain.cs	/^	bool canGenerateRevive		= true;							\/\/Can generate revive switch$/;"	f	class:PowerUpMain	file:
+canGenerateTorpedo	LevelGenerator.cs	/^	bool canGenerateTorpedo					= true;				\/\/Torpedo generation switch$/;"	f	class:LevelGenerator	file:
+canModify	ResolutionManager.cs	/^	bool canModify 	= true;		\/\/Can modify the resolution $/;"	f	class:ResolutionManager	file:
+canModifySpeed	LevelGenerator.cs	/^	bool canModifySpeed						= true;				\/\/Modify speed switch$/;"	f	class:LevelGenerator	file:
+canMove	PowerUp.cs	/^	bool canMove = false;						\/\/Can this object move$/;"	f	class:PowerUp	file:
+canMove	Torpedo.cs	/^	bool canMove 					= false;				\/\/Torpedo movement enabled\/disabled$/;"	f	class:Torpedo	file:
+canSink	PlayerManager.cs	/^	bool canSink							= true;						\/\/Can the player sink?$/;"	f	class:PlayerManager	file:
+coinAmmount	SaveManager.cs	/^	static int coinAmmount 		= 1500;					\/\/The ammount of coins the player has$/;"	f	class:SaveManager	file:
+coins	LevelManager.cs	/^	int coins 	= 0;							\/\/Collected coins$/;"	f	class:LevelManager	file:
+completed	MissionTemplate.cs	/^	bool completed 							= false;					\/\/Completition status$/;"	f	class:MissionTemplate	file:
+crashed	PlayerManager.cs	/^	bool crashed							= false;					\/\/The submarine crashed$/;"	f	class:PlayerManager	file:
+currentId	SpriteAnim.cs	/^	int currentId = 0;							\/\/The ID of the current frame$/;"	f	class:SpriteAnim	file:
+data	MissionManager.cs	/^	string data = "";										\/\/The data string containing the saved status$/;"	f	class:MissionManager	file:
+defaultScroll	LevelGenerator.cs	/^	float defaultScroll;										\/\/The default scrolling speed$/;"	f	class:LevelGenerator	file:
+depthEdge	PlayerManager.cs	/^	public float depthEdge					= 10.0f;					\/\/The edge fo the smoothing zone (minDepth- depthEdge and maxDepth - depthEdge)$/;"	f	class:PlayerManager
+description	MissionTemplate.cs	/^	public string description 				= "";						\/\/Mission description$/;"	f	class:MissionTemplate
+distance	LevelGenerator.cs	/^	public float distance;										\/\/Current distance$/;"	f	class:LevelGenerator
+distance	TorpedoIndicator.cs	/^	public float distance = 1.0f;						\/\/Vertical distance$/;"	f	class:TorpedoIndicator
+distanceToMax	PlayerManager.cs	/^	float distanceToMax;												\/\/The current distance to the maximum depth$/;"	f	class:PlayerManager	file:
+distanceToMin	PlayerManager.cs	/^	float distanceToMin;												\/\/The current distance to the minimum depth$/;"	f	class:PlayerManager	file:
+elements	Obstacles.cs	/^	public List<GameObject> elements		= new List<GameObject>();		\/\/A list that holds the obstacle childs$/;"	f	class:Obstacles
+explosion	Torpedo.cs	/^	public ParticleSystem explosion;						\/\/The torpedo's explosion$/;"	f	class:Torpedo
+explosionPlaying	Torpedo.cs	/^	bool explosionPlaying			= false;				\/\/Explosion playing\/not playing$/;"	f	class:Torpedo	file:
+extraSpeed	SaveManager.cs	/^	static int extraSpeed 		= 0;					\/\/The ammount of extra speed power ups the player has$/;"	f	class:SaveManager	file:
+finishMenu	GUIManager.cs	/^    public GameObject finishMenu;				\/\/The finish menu to show after a crash$/;"	f	class:GUIManager
+finishTexts	GUIManager.cs	/^    public TextMesh[] finishTexts;              \/\/The finish menu coin and distance indicators$/;"	f	class:GUIManager
+firstObstacleGenerated	PlayerManager.cs	/^	bool firstObstacleGenerated				= false;					\/\/The first obstacle generated$/;"	f	class:PlayerManager	file:
+fourthLayer	LevelGenerator.cs	/^	public List<GameObject> fourthLayer; 						\/\/The list containing the fourth layer elements $/;"	f	class:LevelGenerator
+frameA	SpriteAnim.cs	/^	public Texture2D frameA;					\/\/The first frame of the animation$/;"	f	class:SpriteAnim
+frameB	SpriteAnim.cs	/^	public Texture2D frameB;					\/\/The second frame of the animation$/;"	f	class:SpriteAnim
+goalType	MissionTemplate.cs	/^	public GoalType goalType 				= GoalType.InOneRun;		\/\/Mission goal selection$/;"	f	class:MissionTemplate
+guiTexts	GUIManager.cs	/^    public TextMesh[] guiTexts;                 \/\/The main GUI coin and distance indicator$/;"	f	class:GUIManager
+hangar	LevelGenerator.cs	/^	public GameObject hangar;									\/\/A link to the hangar$/;"	f	class:LevelGenerator
+hangar	ResolutionManager.cs	/^	float hangar	= 0;		\/\/The hangar location$/;"	f	class:ResolutionManager	file:
+hangarPos	LevelGenerator.cs	/^	float hangarPos							= 39;				\/\/The starting x position of the hangar$/;"	f	class:LevelGenerator	file:
+hasRevive	PlayerManager.cs	/^	bool hasRevive							= false;					\/\/Can the player revive?$/;"	f	class:PlayerManager	file:
+hit	InputManager.cs	/^	RaycastHit hit;								\/\/The hit raycast$/;"	f	class:InputManager	file:
+horizontalSpeed	PowerUp.cs	/^	float horizontalSpeed  = 0;					\/\/Horizontal speed$/;"	f	class:PowerUp	file:
+horizontalSpeed	PowerUpMain.cs	/^	public float horizontalSpeed  = 0;							\/\/The horizontal speed of the generated power up$/;"	f	class:PowerUpMain
+inExtraSpeed	PlayerManager.cs	/^	bool inExtraSpeed						= false;					\/\/The submarine is using the extra speed power up$/;"	f	class:PlayerManager	file:
+inRevive	PlayerManager.cs	/^	bool inRevive							= false;					\/\/The player is currently reviving$/;"	f	class:PlayerManager	file:
+inactive	PowerUpMain.cs	/^	List<PowerUp> inactive 	 	= new List<PowerUp>();			\/\/A list of the active power ups$/;"	f	class:PowerUpMain	file:
+inactive	TorpedoMain.cs	/^	List<Torpedo> inactive 	 	= new List<Torpedo>();				\/\/A list of the inactive torpedoes$/;"	f	class:TorpedoMain	file:
+indicator	Torpedo.cs	/^	public GameObject indicator;							\/\/The torpedo's indicator$/;"	f	class:Torpedo
+instances	GUIManager.cs	/^    static int instances = 0;$/;"	f	class:GUIManager	file:
+instances	LevelGenerator.cs	/^    static int instances = 0;$/;"	f	class:LevelGenerator	file:
+instances	LevelManager.cs	/^    static int instances = 0;$/;"	f	class:LevelManager	file:
+instances	MissionManager.cs	/^    static int instances = 0;$/;"	f	class:MissionManager	file:
+instances	PlayerManager.cs	/^    static int instances = 0;$/;"	f	class:PlayerManager	file:
+instances	ResolutionManager.cs	/^    static int instances = 0;$/;"	f	class:ResolutionManager	file:
+left	ResolutionManager.cs	/^	float left		= 0;		\/\/The left position for the left GUI elements$/;"	f	class:ResolutionManager	file:
+mNotification1Used	GUIManager.cs	/^	bool mNotification1Used	= false;			\/\/The mission notification 1 is used$/;"	f	class:GUIManager	file:
+mNotification2Used	GUIManager.cs	/^	bool mNotification2Used	= false;			\/\/The mission notification 2 is used$/;"	f	class:GUIManager	file:
+mNotification3Used	GUIManager.cs	/^	bool mNotification3Used	= false;			\/\/The mission notification 3 is used$/;"	f	class:GUIManager	file:
+mainGUIElements	GUIManager.cs	/^    public GameObject[] mainGUIElements;        \/\/The main GUI and hearts$/;"	f	class:GUIManager
+mainHL	ResolutionManager.cs	/^	float mainHL	= 0;		\/\/The main menu header left position$/;"	f	class:ResolutionManager	file:
+mainHR	ResolutionManager.cs	/^	float mainHR	= 0;		\/\/The main menu header right position$/;"	f	class:ResolutionManager	file:
+mainMenuElements	GUIManager.cs	/^    public GameObject[] mainMenuElements;       \/\/The main menu elements$/;"	f	class:GUIManager
+mainMenuTopHidden	GUIManager.cs	/^	bool mainMenuTopHidden	= true;				\/\/The main menu top hidden$/;"	f	class:GUIManager	file:
+mainMissionHidden	GUIManager.cs	/^	bool mainMissionHidden	= true;				\/\/The mission list in the main menu hidden$/;"	f	class:GUIManager	file:
+mask	InputManager.cs	/^	public LayerMask mask = -1;					\/\/Set input layer mask$/;"	f	class:InputManager
+maxDepth	PlayerManager.cs	/^	public float maxDepth 					= -26f;						\/\/Maximum depth$/;"	f	class:PlayerManager
+maxRotation	PlayerManager.cs	/^	public float maxRotation 				= 25f;						\/\/The maximum rotation of the submarine$/;"	f	class:PlayerManager
+maxScrollSpeed	LevelGenerator.cs	/^	public float maxScrollSpeed 		= 0.7f;					\/\/Maximum scroll speed$/;"	f	class:LevelGenerator
+maxScrollSpeedDist	LevelGenerator.cs	/^	public float maxScrollSpeedDist 	= 1500;					\/\/Maximum scroll speed at thid distance$/;"	f	class:LevelGenerator
+maxVerticalSpeed	PlayerManager.cs	/^	public float maxVerticalSpeed 			= 45.0f;					\/\/The maximum vertical speed$/;"	f	class:PlayerManager
+menuTextures	GUIManager.cs	/^    public Texture2D[] menuTextures;			\/\/The main menu textures (arrow, audio)$/;"	f	class:GUIManager
+minDepth	PlayerManager.cs	/^	public float minDepth 					= 26f;						\/\/Minimum depth$/;"	f	class:PlayerManager
+mission1	SaveManager.cs	/^	static int mission1 		= 0;					\/\/Mission 1 ID$/;"	f	class:SaveManager	file:
+mission1Data	SaveManager.cs	/^	static int mission1Data 	= 0;					\/\/Mission 1 saved data$/;"	f	class:SaveManager	file:
+mission2	SaveManager.cs	/^	static int mission2 		= 1;					\/\/Mission 2 ID$/;"	f	class:SaveManager	file:
+mission2Data	SaveManager.cs	/^	static int mission2Data 	= 0;					\/\/Mission 2 saved data$/;"	f	class:SaveManager	file:
+mission3	SaveManager.cs	/^	static int mission3 		= 2;					\/\/Mission 3 ID$/;"	f	class:SaveManager	file:
+mission3Data	SaveManager.cs	/^	static int mission3Data 	= 0;					\/\/Mission 3 saved data$/;"	f	class:SaveManager	file:
+missionData	SaveManager.cs	/^	static string missionData	= ""; 					\/\/Saved mission data string$/;"	f	class:SaveManager	file:
+missionNotification	GUIManager.cs	/^    public GameObject[] missionNotification;	\/\/The mission complete notifications$/;"	f	class:GUIManager
+missionStatus	GUIManager.cs	/^    public TextMesh[] missionStatus;			\/\/The mission status indicator texts$/;"	f	class:GUIManager
+missionTexts	GUIManager.cs	/^    public TextMesh[] missionTexts;				\/\/The mission GUI texts$/;"	f	class:GUIManager
+missionType	MissionTemplate.cs	/^	public MissionType missionType 			= MissionType.Distance;		\/\/Mission type selection$/;"	f	class:MissionTemplate
+missions	MissionManager.cs	/^	public MissionTemplate[] missions;						\/\/List of missions$/;"	f	class:MissionManager
+movementSpeed	TorpedoMain.cs	/^	public float movementSpeed  = 0;								\/\/The movement speed of the torpedoes$/;"	f	class:TorpedoMain
+movingUpward	PlayerManager.cs	/^	bool movingUpward 						= false;					\/\/The submarine is rising$/;"	f	class:PlayerManager	file:
+myInstance	GUIManager.cs	/^    static GUIManager myInstance;$/;"	f	class:GUIManager	file:
+myInstance	LevelGenerator.cs	/^    static LevelGenerator myInstance;$/;"	f	class:LevelGenerator	file:
+myInstance	LevelManager.cs	/^    static LevelManager myInstance;$/;"	f	class:LevelManager	file:
+myInstance	MissionManager.cs	/^    static MissionManager myInstance;$/;"	f	class:MissionManager	file:
+myInstance	PlayerManager.cs	/^    static PlayerManager myInstance;$/;"	f	class:PlayerManager	file:
+myInstance	ResolutionManager.cs	/^	static ResolutionManager myInstance;$/;"	f	class:ResolutionManager	file:
+name	MissionTemplate.cs	/^	public string name 						= "";						\/\/Mission name$/;"	f	class:MissionTemplate
+newRotation	PlayerManager.cs	/^	Vector3 newRotation						= new Vector3 (0, 0, 0);	\/\/Stores the new rotation angles$/;"	f	class:PlayerManager	file:
+newSpeed	PlayerManager.cs	/^	float newSpeed 							= 0.0f;						\/\/The new speed of the submarine, used at the edges$/;"	f	class:PlayerManager	file:
+nextPos	PowerUp.cs	/^	Vector3 nextPos = new Vector3();			\/\/Stores the next position$/;"	f	class:PowerUp	file:
+nextPos	TorpedoIndicator.cs	/^	Vector3 nextPos = new Vector3();					\/\/The next position of the indicator$/;"	f	class:TorpedoIndicator	file:
+obstacles	LevelGenerator.cs	/^	public List<GameObject> obstacles;							\/\/The list containing the obstacles$/;"	f	class:LevelGenerator
+offset	PowerUp.cs	/^	float offset = 0.0f;						\/\/Vertical offset$/;"	f	class:PowerUp	file:
+offset	TorpedoIndicator.cs	/^	float offset = 0.0f;								\/\/Offset$/;"	f	class:TorpedoIndicator	file:
+originalExpPos	Torpedo.cs	/^	Vector3 originalExpPos			= new Vector3();		\/\/The original position of the explosion$/;"	f	class:Torpedo	file:
+originalPos	PowerUp.cs	/^	float originalPos = 0;						\/\/Original y position$/;"	f	class:PowerUp	file:
+originalPos	Torpedo.cs	/^	Vector3 originalPos				= new Vector3();		\/\/The orogonal position of the torpedo$/;"	f	class:Torpedo	file:
+originalPos	TorpedoIndicator.cs	/^	float originalPos = 0;								\/\/The original position of the indicator$/;"	f	class:TorpedoIndicator	file:
+originalSpeed	Torpedo.cs	/^    float originalSpeed             = 0;                    \/\/The original speed, before the modification$/;"	f	class:Torpedo	file:
+overlay	GUIManager.cs	/^    public Renderer overlay;					\/\/The overlay between the game and menus$/;"	f	class:GUIManager
+parent	PowerUp.cs	/^	public PowerUpMain parent;					\/\/The power up manager parent object$/;"	f	class:PowerUp
+parent	Torpedo.cs	/^	public TorpedoMain parent;								\/\/A link to the torpedo manager$/;"	f	class:Torpedo
+pauseElements	GUIManager.cs	/^    public GameObject[] pauseElements;          \/\/The pause menu elements$/;"	f	class:GUIManager
+paused	LevelGenerator.cs	/^	bool paused								= true;				\/\/Pause switch$/;"	f	class:LevelGenerator	file:
+paused	PlayerManager.cs	/^	bool paused								= false;					\/\/The game is paused\/unpaused$/;"	f	class:PlayerManager	file:
+paused	PowerUp.cs	/^	bool paused = false;						\/\/Is the game paused$/;"	f	class:PowerUp	file:
+paused	Torpedo.cs	/^	bool paused 					= false;				\/\/Game paused switch$/;"	f	class:Torpedo	file:
+paused	TorpedoIndicator.cs	/^	bool paused = false;								\/\/Is the game paused$/;"	f	class:TorpedoIndicator	file:
+powerUpMain	LevelGenerator.cs	/^	public PowerUpMain powerUpMain;								\/\/A link to the power up manager$/;"	f	class:LevelGenerator
+powerUpUsed	PlayerManager.cs	/^	bool powerUpUsed						= false;					\/\/A power up is used\/unused$/;"	f	class:PlayerManager	file:
+ray	InputManager.cs	/^	Ray ray;									\/\/The hit ray$/;"	f	class:InputManager	file:
+revive	SaveManager.cs	/^	static int revive 			= 0;					\/\/The ammount of revive power ups the player has$/;"	f	class:SaveManager	file:
+reviveActivated	GUIManager.cs	/^	bool reviveActivated	= false;			\/\/A revive is activated$/;"	f	class:GUIManager	file:
+reviveParticle	PlayerManager.cs	/^	public ParticleSystem reviveParticle;								\/\/The revive particle$/;"	f	class:PlayerManager
+right	ResolutionManager.cs	/^	float right		= 0;		\/\/The right position for the right GUI elements$/;"	f	class:ResolutionManager	file:
+rotationDiv	PlayerManager.cs	/^	float rotationDiv;													\/\/A variable used to calculate rotation$/;"	f	class:PlayerManager	file:
+sand	LevelGenerator.cs	/^	public Renderer sand;										\/\/The sand renderer$/;"	f	class:LevelGenerator
+scale	ResolutionManager.cs	/^	float scale		= 0;		\/\/The level scale (sand, background, etc...)$/;"	f	class:ResolutionManager	file:
+scrollAtCrash	LevelGenerator.cs	/^	float scrollAtCrash;										\/\/The scrolling speed before a crash$/;"	f	class:LevelGenerator	file:
+scrollBackg	LevelGenerator.cs	/^	float scrollBackg;											\/\/The background scrolling speed$/;"	f	class:LevelGenerator	file:
+scrollForg	LevelGenerator.cs	/^	float scrollForg;											\/\/The foreground scrolling speed$/;"	f	class:LevelGenerator	file:
+scrollHangar	LevelGenerator.cs	/^	bool scrollHangar						= true;				\/\/Scroll hangar switch$/;"	f	class:LevelGenerator	file:
+scrollMiddle	LevelGenerator.cs	/^	float scrollMiddle;											\/\/The middleground scrolling speed$/;"	f	class:LevelGenerator	file:
+scrollSpeed	LaserBeam.cs	/^	public float scrollSpeed = 0.0f;			\/\/Laser scroll speed$/;"	f	class:LaserBeam
+scrollSpeed	LevelGenerator.cs	/^	public float scrollSpeed			= 0.4f;					\/\/Starting scroll speed$/;"	f	class:LevelGenerator
+scrolling	LaserBeam.cs	/^	Vector2 scrolling = new Vector2(0, 0);		\/\/Scrolling vector$/;"	f	class:LaserBeam	file:
+scrolling	LevelGenerator.cs	/^	Vector2 scrolling 					= new Vector2(0, 0);	\/\/A vector for the seaBackground scrolling$/;"	f	class:LevelGenerator	file:
+secondLayer	LevelGenerator.cs	/^	public List<GameObject> secondLayer; 						\/\/The list containing the second layer elements $/;"	f	class:LevelGenerator
+shield	PlayerManager.cs	/^	public Transform shield;											\/\/The sub's shield$/;"	f	class:PlayerManager
+shield	SaveManager.cs	/^	static int shield 			= 0;					\/\/The ammount of shield power ups the player has$/;"	f	class:SaveManager	file:
+shieldActive	PlayerManager.cs	/^	bool shieldActive						= false;					\/\/Shield enabled\/disabled$/;"	f	class:PlayerManager	file:
+shieldCollider	PlayerManager.cs	/^	public SphereCollider shieldCollider;								\/\/The shield's collider$/;"	f	class:PlayerManager
+shop	ResolutionManager.cs	/^	float shop		= 0;		\/\/The shop left\/right position$/;"	f	class:ResolutionManager	file:
+shopElements	GUIManager.cs	/^	public GameObject[] shopElements;			\/\/Contains the shop elements$/;"	f	class:GUIManager
+shopHidden	GUIManager.cs	/^	bool shopHidden			= true;				\/\/The shop hidden$/;"	f	class:GUIManager	file:
+shopPrices	GUIManager.cs	/^    public int[] shopPrices;					\/\/Contains the shop prices$/;"	f	class:GUIManager
+shopReviveUsed	PlayerManager.cs	/^	bool shopReviveUsed						= false;					\/\/The shop revive is used\/unused$/;"	f	class:PlayerManager	file:
+shopTexts	GUIManager.cs	/^    public TextMesh[] shopTexts;				\/\/Contains the shop texts$/;"	f	class:GUIManager
+showMainGUI	GUIManager.cs	/^	bool showMainGUI		= false;			\/\/The main GUI showed$/;"	f	class:GUIManager	file:
+showPause	GUIManager.cs	/^	bool showPause			= false;			\/\/The pause showed$/;"	f	class:GUIManager	file:
+sinking	PlayerManager.cs	/^	bool sinking							= false;					\/\/The submarine is sinking$/;"	f	class:PlayerManager	file:
+smoke	PlayerManager.cs	/^	public ParticleSystem smoke;										\/\/The smoke particle$/;"	f	class:PlayerManager
+sonicBlastFirst	PowerUpMain.cs	/^	bool sonicBlastFirst		= false;						\/\/Generate sonic blast first switch$/;"	f	class:PowerUpMain	file:
+sonicWave	PlayerManager.cs	/^	public GameObject sonicWave;										\/\/The sonic wave particle$/;"	f	class:PlayerManager
+sonicWave	SaveManager.cs	/^	static int sonicWave 		= 0;					\/\/The ammount of sonic wave power ups the player has$/;"	f	class:SaveManager	file:
+speed	PlayerManager.cs	/^	float speed 							= 0.0f;						\/\/The actual vertical speed of the submarine$/;"	f	class:PlayerManager	file:
+speed	Torpedo.cs	/^	float speed						= 0;					\/\/Speed of the torpedo$/;"	f	class:Torpedo	file:
+speed	TorpedoIndicator.cs	/^	public float speed = 5.0f;							\/\/Vertical speed$/;"	f	class:TorpedoIndicator
+speedParticle	PlayerManager.cs	/^	public GameObject speedParticle;									\/\/The speed effect$/;"	f	class:PlayerManager
+speedTrail	PlayerManager.cs	/^	public GameObject speedTrail;										\/\/The speed trail effect$/;"	f	class:PlayerManager
+startPowerAct	GUIManager.cs	/^	bool startPowerAct		= false;			\/\/A power up is activated in the start$/;"	f	class:GUIManager	file:
+startPowerUps	GUIManager.cs	/^    public GameObject[] startPowerUps;			\/\/The power up activation buttoms$/;"	f	class:GUIManager
+starting	GUIManager.cs	/^	bool starting 			= false;			\/\/The level is in the starting stage$/;"	f	class:GUIManager	file:
+startingPos	PlayerManager.cs	/^	float startingPos						= -37;						\/\/The starting position of the submarine$/;"	f	class:PlayerManager	file:
+startingPos	PowerUp.cs	/^	Vector3 startingPos;						\/\/The starting position of the object$/;"	f	class:PowerUp	file:
+startingValue	MissionTemplate.cs	/^	int startingValue 						= 0;						\/\/Starting Value$/;"	f	class:MissionTemplate	file:
+storedValue	MissionTemplate.cs	/^	int storedValue 						= 0;						\/\/Stored value$/;"	f	class:MissionTemplate	file:
+subEnabled	PlayerManager.cs	/^	bool subEnabled							= false;					\/\/The submarine control enabled\/disabled$/;"	f	class:PlayerManager	file:
+subMaterial	PlayerManager.cs	/^	public Renderer subMaterial;										\/\/A link to the sub material$/;"	f	class:PlayerManager
+subPos	ResolutionManager.cs	/^	float subPos	= 0;		\/\/The position of the submarine$/;"	f	class:ResolutionManager	file:
+subStartP	ResolutionManager.cs	/^	float subStartP	= 0;		\/\/The starting position of the submarine$/;"	f	class:ResolutionManager	file:
+subTextures	PlayerManager.cs	/^	public Texture2D[] subTextures;										\/\/The array containing the sub and sub damaged textures$/;"	f	class:PlayerManager
+submarine	LevelGenerator.cs	/^	public GameObject submarine;								\/\/A link to the submarine$/;"	f	class:LevelGenerator
+target	Follow.cs	/^	public Transform target;		\/\/The target to follow$/;"	f	class:Follow
+targetPos	Follow.cs	/^	Vector3 targetPos;				\/\/The target position to follow$/;"	f	class:Follow	file:
+thirdLayer	LevelGenerator.cs	/^	public List<GameObject> thirdLayer; 						\/\/The list containing the third layer elements $/;"	f	class:LevelGenerator
+thisTransform	PlayerManager.cs	/^	Transform thisTransform;											\/\/The transform of this object stored$/;"	f	class:PlayerManager	file:
+torpedo	Torpedo.cs	/^	public GameObject torpedo;								\/\/The torpedo object$/;"	f	class:Torpedo
+torpedoMain	LevelGenerator.cs	/^	public TorpedoMain torpedoMain;								\/\/A link to the torpedo manager$/;"	f	class:LevelGenerator
+trail	PowerUp.cs	/^	public GameObject trail;					\/\/The trail renderer gameobject$/;"	f	class:PowerUp
+useTouch	InputManager.cs	/^	public bool useTouch = false;				\/\/Use touch based controls$/;"	f	class:InputManager
+valueA	MissionTemplate.cs	/^	public int valueA 						= 0;						\/\/Goal value A$/;"	f	class:MissionTemplate
+valueB	MissionTemplate.cs	/^	public int valueB 						= 0;						\/\/Goal value B$/;"	f	class:MissionTemplate
+verticalDistance	PowerUp.cs	/^	float verticalDistance = 1.0f;				\/\/Vertical distance$/;"	f	class:PowerUp	file:
+verticalDistance	PowerUpMain.cs	/^	public float verticalDistance = 1.0f;						\/\/The vertical movement distance of the generated power ups$/;"	f	class:PowerUpMain
+verticalSpeed	PowerUp.cs	/^	float verticalSpeed = 5.0f;					\/\/Vertical speed$/;"	f	class:PowerUp	file:
+verticalSpeed	PowerUpMain.cs	/^	public float verticalSpeed = 5.0f;							\/\/The vertical speed of the generated power ups$/;"	f	class:PowerUpMain
+xPos	PlayerManager.cs	/^	float xPos								= -30;						\/\/The x position of the submarine$/;"	f	class:PlayerManager	file:
